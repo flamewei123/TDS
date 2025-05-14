@@ -1,1 +1,1 @@
-# TDS
+# Temporal Diversity Score (TDS)
